@@ -1,3 +1,5 @@
-<p align="center">
+<h3 align="center">
     $${\color{blue}Amanda \space Woldseth \space Markovic}$$
-</p>
+</h3>
+
+Lorem Ipsum
