@@ -1,5 +1,3 @@
-<h3 align="center">
-    $${\color{blue}Amanda \space Woldseth \space Markovic}$$ ❤️
-</h3>
-
-Lorem Ipsum
+<div align="center">
+    <img src="./github-header-v3.svg" />
+</div>
