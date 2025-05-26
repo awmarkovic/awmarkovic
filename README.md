@@ -1,3 +1,3 @@
-<p align="center" style="color:red">
-  Amanda W. Markovic
+<p align="center">
+    $${\color{blue}Amanda \space Woldseth \space Markovic}$$
 </p>
